@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>319242213817-5gjpjp41smrv10i3ol3nmgi73ru4ssfc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.319242213817-5gjpjp41smrv10i3ol3nmgi73ru4ssfc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>319242213817-m5p36u05efdaqtab3d1oue8m7up2hb1c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2OVYfsP0xpY0hdsn3X5ZARr_ue4dGNgk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>319242213817</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.frutivity.frutivity</string>
+	<key>PROJECT_ID</key>
+	<string>frutivity-36805</string>
+	<key>STORAGE_BUCKET</key>
+	<string>frutivity-36805.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:319242213817:ios:2a25c1fe311ca535023e68</string>
+	<key>DATABASE_URL</key>
+	<string>https://frutivity-36805.firebaseio.com</string>
+</dict>
+</plist>

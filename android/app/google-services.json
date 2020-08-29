@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319242213817",
+    "firebase_url": "https://frutivity-36805.firebaseio.com",
+    "project_id": "frutivity-36805",
+    "storage_bucket": "frutivity-36805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319242213817:android:dd0b50a2561ba28f023e68",
+        "android_client_info": {
+          "package_name": "com.frutivity.frutivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319242213817-m5p36u05efdaqtab3d1oue8m7up2hb1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frutivity.frutivity",
+            "certificate_hash": "682f078da692aeb535e2a0d6e615c0f385a30ffc"
+          }
+        },
+        {
+          "client_id": "319242213817-4ocntp2v3r04696rrjbhkuddtqm35id4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEtMH5_lCYF9x933H-FUqNy019PmKVtAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319242213817-4ocntp2v3r04696rrjbhkuddtqm35id4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
